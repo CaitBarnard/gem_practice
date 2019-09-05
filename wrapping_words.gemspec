@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = [""]
 
   spec.summary       = %q{""}
-  spec.homepage      = "https://www.google.com"
+  spec.homepage      = "https://github.com/CaitBarnard/gem_practice"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
@@ -19,7 +19,7 @@ Gem::Specification.new do |spec|
     spec.metadata["allowed_push_host"] = "TODO: Set to 'http://mygemserver.com'"
 
     spec.metadata["homepage_uri"] = spec.homepage
-    spec.metadata["source_code_uri"] = "https://www.google.com"
+    spec.metadata["source_code_uri"] = "https://github.com/CaitBarnard/gem_practice"
 
   else
     raise "RubyGems 2.0 or newer is required to protect against " \
