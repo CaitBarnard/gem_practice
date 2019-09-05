@@ -1,0 +1,20 @@
+PATH
+  remote: .
+  specs:
+    wrapping_words (0.1.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    rake (10.5.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  bundler (~> 1.17)
+  rake (~> 10.0)
+  wrapping_words!
+
+BUNDLED WITH
+   1.17.2
